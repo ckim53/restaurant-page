@@ -17,6 +17,7 @@ nav {
     grid-template-columns: repeat(3, 1fr);
     border-bottom: 1px solid lightsteelblue;
     padding: 10px;
+    align-content: center;
 }
 
 #content {
@@ -62,7 +63,7 @@ img {
 .logo {
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 40px;
-    margin: 0 30px;
+    margin: 10px 30px;
 }
 
 .tag {
